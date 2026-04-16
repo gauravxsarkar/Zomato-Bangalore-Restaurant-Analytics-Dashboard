@@ -86,4 +86,4 @@ It contains detailed information about restaurants in Bangalore including:
 
 ---
 
-Feel free to explore, modify, and build on top of it!
+![Dashboard Preview](https://github.com/gauravxsarkar/Zomato-Bangalore-Restaurant-Analytics-Dashboard/blob/main/dashboard.png)
